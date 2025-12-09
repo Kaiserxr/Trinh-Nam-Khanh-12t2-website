@@ -84,7 +84,7 @@ body {
 
 .players {
     display: flex;
-    justify-content: space around; 
+    justify-content: space-around; 
     text-align: center; 
     flex-wrap: wrap;
     margin-top: 20px;
@@ -100,3 +100,4 @@ body {
     transform: scale(1.1);
     filter: brightness(60%);
 }
+
