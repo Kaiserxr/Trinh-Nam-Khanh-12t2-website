@@ -33,7 +33,7 @@ a{
     border-bottom: 1px solid #ddd;
 }
 
-.menu-bar a:hover img{
+.menu-bar a:hover {
     transform: scale(1.1);
     filter: brightness(60%);
 }
@@ -110,6 +110,7 @@ body {
     transform: scale(1.1);
     filter: brightness(60%);
 }
+
 
 
 
