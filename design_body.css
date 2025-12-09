@@ -60,7 +60,7 @@ body {
 
 
 .picture {
-    height: 250px;
+    height: 230px;
     width: 180px;
     border-radius: 5px;
 }
@@ -110,6 +110,7 @@ body {
     transform: scale(1.1);
     filter: brightness(60%);
 }
+
 
 
 
