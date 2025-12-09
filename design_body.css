@@ -33,6 +33,11 @@ a{
     border-bottom: 1px solid #ddd;
 }
 
+.menu-bar a:hover img{
+    transform: scale(1.1);
+    filter: brightness(60%);
+}
+
 body {
     background-color: #d1ccc0; 
     position: relative;
@@ -105,5 +110,6 @@ body {
     transform: scale(1.1);
     filter: brightness(60%);
 }
+
 
 
