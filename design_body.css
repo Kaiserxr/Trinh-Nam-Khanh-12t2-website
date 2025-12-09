@@ -84,7 +84,7 @@ body {
 
 .players {
     display: flex;
-    justify-content: center; 
+    justify-content: space around; 
     text-align: center; 
     flex-wrap: wrap;
     margin-top: 20px;
@@ -93,4 +93,10 @@ body {
 .player img {
     width: 310px;
     height: 310px;
+
+}
+
+.player:hover img{
+    transform: scale(1.1);
+    filter: brightness(60%);
 }
